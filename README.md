@@ -16,6 +16,9 @@ If you have any questions about me please feel free to ask, you can contract on 
 ### Donations are welcome!
 
 BTC (segwit): 3KbMDq1VQo6N1mtTZfYJ3SCcrg3ovCaT2B
+
 BCH: 1KY7E9s7sQpdx2LA2Zvd9GkfoDqiozKxcT
+
 BTG: AeMtxJSWikfKzJHzeAwV7qmgwU1oF2upox
+
 ZCL: t1XT1y2YpCvjZcAt3zWHdShtWJ5CWLV3Jxg
